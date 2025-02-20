@@ -56,7 +56,7 @@ All detailed data is available in the following spreadsheets:
 
 - Lisk Blockchain (Student Projects & HostIt)
 - Base Mainnet (Classmate NFTs)
-- Polygon Mainnet (Web3Bridge Student Onboarding)
+- Optimism Mainnet (Web3Bridge Student Onboarding)
 
 ## About Web3Bridge
 
